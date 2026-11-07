@@ -1,11 +1,11 @@
 {
-  "name": "SOLELAB \u2014 Refresh Restore Resell",
+  "name": "SOLELAB — Refresh Restore Resell",
   "short_name": "SOLELAB",
   "description": "Premium pre-loved sports footwear and sneakers",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#030b17",
-  "theme_color": "#06172b",
+  "background_color": "#0B1626",
+  "theme_color": "#0A5BFF",
   "icons": [
     {
       "src": "assets/icon.svg",
