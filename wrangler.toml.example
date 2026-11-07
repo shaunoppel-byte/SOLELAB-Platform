@@ -1,0 +1,8 @@
+name = "solelab-catalog-api"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+# Create D1 database first, then replace placeholder ID below.
+[[d1_databases]]
+binding = "DB"
+database_name = "solelab-inventory"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
